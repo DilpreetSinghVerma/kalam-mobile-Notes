@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066929757932",
+    "project_id": "kalam-notes",
+    "storage_bucket": "kalam-notes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066929757932:android:8d107b930dacad574a8fc9",
+        "android_client_info": {
+          "package_name": "com.dilpreet.kalamnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066929757932-bqees2g2chjma2upgfbd3aok892jhuda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqLaNFu_mi7ur9v5dDnts7Z2D2H5SvqUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066929757932-bqees2g2chjma2upgfbd3aok892jhuda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
